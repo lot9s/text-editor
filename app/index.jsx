@@ -36,6 +36,8 @@ class App extends React.Component {
                 </ul>
               </div>
             </nav>
+          
+            <textarea id='editor' className='h-100 w-100'></textarea>
           </div>
         );
     }
